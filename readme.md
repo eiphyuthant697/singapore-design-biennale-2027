@@ -45,6 +45,8 @@ Developed and maintained portal functionality for different user roles:
 
 Implemented role-based access and customized dashboard functionality based on user permissions.
 
+<img src="the-sdb-first-page-login.png" alt="Login Form" width="48%">
+
 2. Dynamic Form Development
 
 - Developed custom multi-section forms using PHP and WordPress.
