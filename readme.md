@@ -45,7 +45,18 @@ Developed and maintained portal functionality for different user roles:
 
 Implemented role-based access and customized dashboard functionality based on user permissions.
 
+**Login Form**
+
+- Custom login form interface.
+- Email and password authentication.
+- User account verification.
+- Role-based access to the appropriate portal dashboard.
+- Session-based user authentication.
+- Access control based on assigned user roles.
+
 <img src="the-sdb-first-page-login.png" alt="Login Form" width="48%">
+
+After successful login, users are directed to their respective dashboards according to their assigned roles.
 
 2. Dynamic Form Development
 
