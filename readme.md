@@ -59,7 +59,7 @@ Implemented role-based access and customized dashboard functionality based on us
 After successful login, users are directed to their respective dashboards according to their assigned roles.
 
 <p align="center">
-<img src="EP listing dashboard.php" width="49%">
+<img src="EP listing dashboard.png" width="49%">
 <img src="" width="49%">
 </p>
 
