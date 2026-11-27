@@ -60,7 +60,7 @@ After successful login, users are directed to their respective dashboards accord
 
 <p align="center">
 <img src="EP listing dashboard.png" width="49%">
-<img src="" width="49%">
+<img src="EP form.png" width="49%">
 </p>
 
 2. Dynamic Form Development
