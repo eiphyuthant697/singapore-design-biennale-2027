@@ -58,10 +58,25 @@ Implemented role-based access and customized dashboard functionality based on us
 
 After successful login, users are directed to their respective dashboards according to their assigned roles.
 
+**EP Team – Event Submission Form**
+
+Key Features:
+
+- Custom multi-section event submission form.
+- Dynamic form fields for event and programme information.
+- Event details and programme management.
+- Date, time, and programme validation.
+- Image and media uploads.
+- Conditional field display based on user interactions.
+- Form submission and save functionality.
+- Data handling and database integration using PHP and WordPress.
+
 <p align="center">
 <img src="EP listing dashboard.png" width="49%">
 <img src="EP form.png" width="49%">
 </p>
+
+
 
 2. Dynamic Form Development
 
