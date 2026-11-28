@@ -76,7 +76,44 @@ Key Features:
 <img src="EP form.png" width="49%">
 </p>
 
+**BMC Listing & BMC Form**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+**BMC Listing**
+
+Key Features:
+
+- Display submitted event and programme records in a structured listing.
+- Filter records by event status, district, and programme type.
+- Sort records by OC number, programme title, partner name, and date/time.
+- View and manage individual event submissions.
+- Track submission and review statuses.
+- Select multiple records for bulk actions.
+- Export event and programme information.
+</td>
+<td width="50%" valign="top">
+  **BMC Form**
+
+  Key Features:
+
+- Custom BMC Team form interface.
+- Display and management of submitted event information.
+- Event and programme data handling.
+- Review and update functionality for event submissions.
+- Can see the history of the field values.
+
+BMC-specific event management and review workflows.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="BMC Listing.png" width="49%">
+<img src="BMC form.png" width="49%">
+</p>
 
 2. Dynamic Form Development
 
